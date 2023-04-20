@@ -22,3 +22,8 @@ $ node calculator.js
 <a href="https://github.com/gabiscltt"><img src="https://github.com/gabiscltt.png" width="45" height="45"></a> &nbsp;  <!-- Gabriela S Machado -->
 <a href="https://github.com/Luizaml04"><img src="https://github.com/Luizaml04.png" width="45" height="45"></a> &nbsp;  <!-- Luiza Maciel Libretti -->
 <a href="https://github.com/TiVentress"><img src="https://github.com/TiVentress.png" width="45" height="45"></a> &nbsp;  <!-- Tiago Paraná de Lara -->
+
+- Fabrício Ferrony Gallon
+- Gabriela S Machado 
+- Luiza Maciel Libretti
+- Tiago Paraná de Lara
